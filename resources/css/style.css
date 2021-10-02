@@ -85,3 +85,14 @@ figcaption{
     flex-direction:column;
     justify-content:space-around;
 }
+
+#contact{
+    height: 200px;
+}
+
+footer{
+    text-align:left;
+    font-size:1.2rem;
+    margin-bottom: 15px;
+    margin-left:20px;
+}
