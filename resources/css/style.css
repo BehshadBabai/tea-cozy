@@ -37,6 +37,7 @@ nav img{
     background-image: url("../img/img-mission-background.webp");
     background-repeat: no-repeat;
     background-position: center;
+    background-size:cover;
     align-items: center;
 }
 
@@ -58,4 +59,29 @@ nav img{
 
 figcaption{
     margin-top:5%;
+}
+
+/*fix the issue of mobile devices for this section later*/
+#location {
+    background-image: url("../img/img-locations-background.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    height: 500px;
+    padding-top:5%;
+}
+
+#location-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#location-container div{
+    opacity: 1;
+    background-color: black;
+    width:300px;
+    display: inline-flex;
+    flex-direction:column;
+    justify-content:space-around;
 }
