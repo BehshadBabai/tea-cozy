@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color:seashell;
+    background-color: black;
+    opacity:0.9;
+    text-align:center;
+}
+
+nav{
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    display:flex;
+    justify-content:space-between;
+}
+
+nav ul{
+    position:relative;
+}
+
+nav li{
+    display: inline;
+    text-decoration:underline;
+    position:relative;
+    padding:10px;
+}
+
+nav img{
+    height:50px;
+    position:relative;
+    left:10px;
+}
