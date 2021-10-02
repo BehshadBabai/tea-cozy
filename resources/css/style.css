@@ -75,6 +75,7 @@ figcaption{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    align-content: space-around;
 }
 
 #location-container div{
@@ -95,4 +96,23 @@ footer{
     font-size:1.2rem;
     margin-bottom: 15px;
     margin-left:20px;
+}
+
+@media only screen and (max-width:818px){
+    #location-container div{
+        font-size: 0.8rem;
+    }
+}
+
+@media only screen and (max-width:481px) {
+    /*fixing the issue with locations*/
+    nav li{
+        display:none;
+    }
+    #location-container div {
+        font-size: 0.6rem;
+    }
+    #location-container{
+        flex-wrap:wrap;
+    }
 }
