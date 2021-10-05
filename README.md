@@ -42,7 +42,7 @@ Website displays info about a tea place
 
 
 ## Project Status
-Project is: In Progress
+Project is: Complete
 
 
 ## Room for Improvement
