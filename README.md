@@ -17,7 +17,7 @@ Tea Cozy
 
 
 ## General Information
-This webpage is developed to showcase knowledege of developing responsive webpages and aligning elements of a webpage using flexbox. The website is a static website providing information on a tea place called Tea Cozy. Note that the links and the navigation links on this website do not work and this project is just intended to showcase knowledge by displaying the first page of a potential website 
+This webpage is developed to showcase knowledge of developing responsive webpages and aligning elements of a webpage using flexbox. The website is a static website providing information on a tea place called Tea Cozy. Note that the links and the navigation links on this website do not work and this project is just intended to showcase knowledge by displaying the first page of a potential website 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
